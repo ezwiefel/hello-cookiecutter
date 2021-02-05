@@ -1,0 +1,5 @@
+{
+    "repo_name": "hello-world",
+    "name": "Erik",
+    "include_goodbye": ["True", "False"]
+}

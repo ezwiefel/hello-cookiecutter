@@ -1,5 +1,6 @@
 {
-    "repo_name": "hello-world",
+    "project_name": "Hello World",
+    "repo_name": "{{ cookiecutter.project_name|lower|replace(' ', '-')}}",
     "name": "Erik",
     "include_goodbye": ["True", "False"]
 }
